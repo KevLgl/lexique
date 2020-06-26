@@ -12,3 +12,4 @@ De plus il me sert aussi à creuser plus loin et decouvrir de nouveaux termes.
 - **Ligne de commande**: Moyen de communication entre l'humain et la machine
 - **HTML**: Langage web de balisage qui permet de faire la le squelette du code 
 - **CSS**: Grand allié du HTML, il permet de l'habiller et d'ameliorer l'interface visuel de l'application ou du site 
+- **Javascript**:Langage web qui permet d'annimer une page statique. Ce langage est aussi utilisable du coté back-end  
